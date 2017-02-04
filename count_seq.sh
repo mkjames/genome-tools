@@ -3,5 +3,5 @@
 
 #!/bin/bash
 #USAGE: bash count_seq.sh FASTA 
-grep -c ">" $1
+grep -c ">" #1
 
